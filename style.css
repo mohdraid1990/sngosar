@@ -1180,7 +1180,7 @@ footer {
     align-items: flex-start;
   }
 nav ul li a {
-  color: var(--accent-light);
+  color: var(--primary-light);
 }
   nav ul li {
     margin: 1rem 0;
