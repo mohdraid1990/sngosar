@@ -250,10 +250,11 @@ nav ul li a:hover::after {
 .section-title p {
   padding-top: 10px;
 }
-
-.section-title h2 {
+.features h2 {
+  color: var(--text);
+}
+ .section-title h2 {
   font-size: 2rem;
-  color: var(--light);
   position: relative;
   display: inline-block;
   padding-bottom: 10px;
